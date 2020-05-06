@@ -3,6 +3,12 @@
 
 >[Project Presentation](https://drive.google.com/open?id=1ze0ppJCZHvvU6jA7TjZ0iNwRWxT3S5nMaDA-EgogiV4)
 
+### String Matching Solution
+![640_HPC Project.png](https://github.com/jamwine/Genetic-Algorithms/blob/master/anim/640_HPC%20Project.png?raw=true)
+
+### Traveling Salesman Solution
+![149.png](tsp_anim/149.png)
+
 ## Introduction to Genetic Algorithms
 ### Evolutionary Algorithms
 A type of machine learning that uses principles from nature to evolve a solution. Optimization is performed using evolutionary algorithms (EAs). The difference between traditional algorithms and EAs is that EAs are not static but dynamic as they can evolve over time.
