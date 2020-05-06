@@ -4,9 +4,17 @@
 >[Project Presentation](https://drive.google.com/open?id=1ze0ppJCZHvvU6jA7TjZ0iNwRWxT3S5nMaDA-EgogiV4)
 
 ### String Matching Solution
+![test.gif](test.gif)
+
+**FINAL SNAPSHOT**
+
 ![640_HPC Project.png](https://github.com/jamwine/Genetic-Algorithms/blob/master/anim/640_HPC%20Project.png?raw=true)
 
 ### Traveling Salesman Solution
+![tsp.gif](tsp.gif)
+
+**FINAL SNAPSHOT**
+
 ![149.png](tsp_anim/149.png)
 
 ## Introduction to Genetic Algorithms
