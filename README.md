@@ -25,7 +25,14 @@ The genetic algorithm is a random-based classical evolutionary algorithm. By ran
 
 To summarize, the first step is to **generate a random population** of candidate solutions with each solution being a collection of data. The specifics of the representation of that data depends on the problem. After **defining an initial population** of randomly generated candidate solutions, the next step is to **evaluate the fitness** for each candidate in our population. That evaluation is specific to the particular problem we're trying to solve, but it always involves using the candidate data, and it always results in a numeric fitness score for each candidate. Based on those fitness scores we **select parent solutions** with generally higher fitness values, and then **crossover genetic information** from each to form child solutions. Those child solutions may undergo a **mutation**, and then the children form the next generation of the population. This process is repeated until after a certain number of generations that candidate with the best fitness is chosen as the ultimate solution to the problem.
 
+#### Genetic Scheme
 ![ga.png](imgs/ga.png)
+
+#### Crossover Example
+![crossover.png](imgs/crossover.png)
+
+#### Mutation Example
+![mutation.png](imgs/mutation.png)
 
 One of the important ideas in evolutionary computing is the **solutions space**. The solution space is a set of all possible solutions to a given problem. **NP-hard** or **non-deterministic polynomial-time hardness** problems refers to a class of problems that are difficult to find a solution for. Non-deterministic means that for any given attempt to solve a problem, we may end up with a different solution due to a strong element of randomness in evolutionary computing. The polynomial-time part of it refers to measuring how long it takes to find a solution. **Combinatorial optimization** is a technique of finding an optimal combination of a given set of objects where an exhaustive search is not feasible. 
 
