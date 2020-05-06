@@ -1,6 +1,7 @@
 # Genetic Algorithms in Python
-[Project Proposal](https://drive.google.com/open?id=1_J8gyWmiVxVyxVxKWK-81Zo53TYyDTD6)
+>[Project Proposal](https://drive.google.com/open?id=1_J8gyWmiVxVyxVxKWK-81Zo53TYyDTD6)
 
+>[Project Presentation](https://drive.google.com/open?id=1ze0ppJCZHvvU6jA7TjZ0iNwRWxT3S5nMaDA-EgogiV4)
 
 ## Introduction to Genetic Algorithms
 ### Evolutionary Algorithms
